@@ -1,5 +1,3 @@
-# R_get_clean_data
-
 # The script run_analysis.R 
   - Loads Labels : activity and features
   - Loads Train Data Sets : subject_train, x_train, y_train
